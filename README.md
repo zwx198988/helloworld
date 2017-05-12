@@ -1,6 +1,7 @@
 # helloworld
 java 学习项目
 第一个java项目
+hello
 
 #### com.alibaba.fastjson 的maven 依赖
 		<dependency>
